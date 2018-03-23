@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funibasil%2FAnimatedCluster.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Funibasil%2FAnimatedCluster?ref=badge_shield)
+
 AnimatedCluster strategy for OpenLayers
 =======================================
 
@@ -13,3 +15,7 @@ More information on this strategy can be found at the [acuriosanimal](http://acu
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funibasil%2FAnimatedCluster.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Funibasil%2FAnimatedCluster?ref=badge_large)
